@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

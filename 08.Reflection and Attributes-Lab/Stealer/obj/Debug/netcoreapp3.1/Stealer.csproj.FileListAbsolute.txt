@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

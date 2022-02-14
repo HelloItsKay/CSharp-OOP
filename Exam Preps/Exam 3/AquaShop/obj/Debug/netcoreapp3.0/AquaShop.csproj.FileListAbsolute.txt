@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 3\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

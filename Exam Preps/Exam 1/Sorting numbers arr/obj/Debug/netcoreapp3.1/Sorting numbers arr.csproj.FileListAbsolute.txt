@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\bin\Debug\netcoreapp3.1\Sorting numbers arr.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Exam 1\Sorting numbers arr\obj\Debug\netcoreapp3.1\Sorting numbers arr.genruntimeconfig.cache

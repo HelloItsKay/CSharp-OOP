@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

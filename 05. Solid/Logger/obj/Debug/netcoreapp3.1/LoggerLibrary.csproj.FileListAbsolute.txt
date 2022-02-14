@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.exe
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.deps.json
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.runtimeconfig.json
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.runtimeconfig.dev.json
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.dll
+C:\Users\krust\source\repos\Solid\Logger\bin\Debug\netcoreapp3.1\LoggerLibrary.pdb
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.AssemblyInfo.cs
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.dll
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.pdb
+C:\Users\krust\source\repos\Solid\Logger\obj\Debug\netcoreapp3.1\LoggerLibrary.genruntimeconfig.cache

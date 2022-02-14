@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Test2(delete)\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

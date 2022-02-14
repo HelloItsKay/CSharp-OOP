@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{0FA0F7D2-714A-4FC1-B0C6-32C692431A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{5CFFB412-8C31-4524-8FCD-2FD5F9066C96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{899EA705-9A0C-434B-A945-E03187F11750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA0F7D2-714A-4FC1-B0C6-32C692431A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA0F7D2-714A-4FC1-B0C6-32C692431A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA0F7D2-714A-4FC1-B0C6-32C692431A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA0F7D2-714A-4FC1-B0C6-32C692431A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFFB412-8C31-4524-8FCD-2FD5F9066C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFFB412-8C31-4524-8FCD-2FD5F9066C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFFB412-8C31-4524-8FCD-2FD5F9066C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFFB412-8C31-4524-8FCD-2FD5F9066C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899EA705-9A0C-434B-A945-E03187F11750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899EA705-9A0C-434B-A945-E03187F11750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899EA705-9A0C-434B-A945-E03187F11750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899EA705-9A0C-434B-A945-E03187F11750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051F84D0-2D27-4354-BBF8-DDB9B8821184}
+	EndGlobalSection
+EndGlobal

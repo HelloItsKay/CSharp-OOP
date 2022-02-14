@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.AssemblyInfo.cs
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.exe
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.deps.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.runtimeconfig.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.runtimeconfig.dev.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\bin\Debug\netcoreapp3.1\Tele.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Tele\obj\Debug\netcoreapp3.1\Tele.genruntimeconfig.cache

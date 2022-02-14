@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\krust\source\repos\04.Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

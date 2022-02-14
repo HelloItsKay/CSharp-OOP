@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\krust\source\repos\08.Reflection and Attributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

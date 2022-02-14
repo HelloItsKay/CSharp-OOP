@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\bin\Debug\netcoreapp3.1\01. Job Interview Tests.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\01. Job Interview Tests\obj\Debug\netcoreapp3.1\01. Job Interview Tests.genruntimeconfig.cache

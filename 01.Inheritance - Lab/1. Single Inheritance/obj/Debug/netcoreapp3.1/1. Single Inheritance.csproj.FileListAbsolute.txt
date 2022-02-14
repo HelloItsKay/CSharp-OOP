@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\1. Single Inheritance.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\1. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\1. Single Inheritance.AssemblyInfo.cs
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\1. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\krust\source\repos\01.Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp3.1\1. Single Inheritance.genruntimeconfig.cache

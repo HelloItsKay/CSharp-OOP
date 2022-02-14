@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\krust\source\repos\04.Polymorphism-Exercises\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

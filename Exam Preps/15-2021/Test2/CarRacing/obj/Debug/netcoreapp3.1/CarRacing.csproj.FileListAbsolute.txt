@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\15-2021\Test2\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

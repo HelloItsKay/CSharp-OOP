@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.exe
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.deps.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\bin\Debug\netcoreapp3.1\03. Reverse string.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.dll
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.pdb
+C:\Users\krust\source\repos\04.C#OOP\Exam Preps\03. Reverse string\obj\Debug\netcoreapp3.1\03. Reverse string.genruntimeconfig.cache

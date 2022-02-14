@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\krust\source\repos\04.C#OOP\09. UnitTesting-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

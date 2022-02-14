@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\krust\source\repos\04.C#OOP\10. Mocking-Lab\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

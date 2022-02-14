@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\krust\source\repos\03.Interfaces and Abstraction-Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

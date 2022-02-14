@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5qtv+PLmXigrENzddbZMWyBXbjGUUtZV6WBjWC4G4vSKnK1ZQLeZmHUGDW5DNBBUUnldt0vnSvUwzldprhRXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krust\\source\\repos\\04.C#OOP\\Exam Preps\\15-2021\\UnitTests\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krust\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\krust\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\krust\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\krust\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
