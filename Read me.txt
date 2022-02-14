@@ -1,2 +1,1 @@
-let see if fetching diff works
-sss
+This read me note was added with testung purpose only.
